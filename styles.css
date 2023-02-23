@@ -1,0 +1,59 @@
+body{
+    background-image: url('asd.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 140%;
+}
+
+    
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 10%; 
+    text-align: left;
+    
+    }
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 20px;
+    
+}
+ button{
+    margin-left: 10%;
+    padding: 3px;
+    font-size: 15px;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border-color: white;
+    background-color:#b197fc;
+
+} 
+button1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #b197fc;
+    padding: 10px;
+    margin-right: 15%;
+    margin-top: 70%;
+    margin-left:30%;
+    border-radius: 23px ;
+    border-style: solid;
+    background-color:#ffe066;
+}
+.navigation{
+    margin-left: 50%;
+}
+h4{
+    font-size: 35px;
+    font-weight: lighter;
+    margin-left: 10%;
+    color: white;
+}
+.schoolbags{
+    margin-top: 10%;
+    margin-right: 70%;
+}
